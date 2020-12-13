@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">त्र्यम्बक</string>
+    <string name="title_activity_login">लॉग इन करें</string>
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">पासवर्ड</string>
+    <string name="action_sign_in">हस्ताक्षर और रजिस्टर</string>
+    <string name="action_sign_in_short">साइन इन करें</string>
+    <string name="welcome">"स्वागत हे !"</string>
+    <string name="invalid_username">मान्य उपयोगकर्ता नाम नहीं</string>
+    <string name="invalid_password">पासवर्ड> 5 वर्ण का होना चाहिए</string>
+    <string name="login_failed">"लॉगिन विफल"</string>
+    <string name="title_activity_navigation">मुख्य गतिविधि</string>
+    <string name="title_home">होम</string>
+    <string name="title_dashboard">डैशबोर्ड</string>
+    <string name="title_notifications">सूचनाएं</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">हैलो खाली टुकड़ा</string>
+    <string name="enter_case_id">केस आईडी दर्ज करें</string>
+    <string name="timestamp">टाइमस्टैम्प</string>
+    <string name="transcript">प्रतिलिपि</string>
+    <string name="location">स्थान</string>
+    <string name="case_id">घटना क्रमांक:</string>
+    <string name="date">तारीख</string>
+    <string name="enter_your_user_id">अपनी उपयोगकर्ता आईडी दर्ज करें</string>
+    <string name="enter_your_password">अपना पासवर्ड डालें</string>
+    <string name="capture">क्लिक करें</string>
+    <string name="upload">अपलोड</string>
+    <string name="additional_images">अतिरिक्त छवियां</string>
+    <string name="create_a_new_case">नया मामला बनाएं</string>
+    <string name="or">या</string>
+    <string name="add_to_existing_case">मौजूदा मामले में जोड़ें</string>
+    <string name="area">क्षेत्रीय</string>
+    <string name="description">विवरण</string>
+    <string name="tampered">Tampered</string>
+</resources>

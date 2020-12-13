@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683334470383",
+    "firebase_url": "https://textit-d4bdd.firebaseio.com",
+    "project_id": "textit-d4bdd",
+    "storage_bucket": "textit-d4bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683334470383:android:9d388f5e8c8fb0df2fe91a",
+        "android_client_info": {
+          "package_name": "com.tryambak.sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683334470383-dr1riida1ehklvqd8qjdubnc7mec01mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWhkFjTLA-iSDWXXiTEZh1p9Yv57tx7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683334470383-dr1riida1ehklvqd8qjdubnc7mec01mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
