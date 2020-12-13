@@ -1,0 +1,67 @@
+body{
+    width: 100%;
+}
+.mypage{
+    margin-bottom: 5%;
+
+}
+
+.volunteer{
+    width: 80vw;
+    margin-top: 18vh;
+    margin-left: 15vw;
+    grid-template-Columns: 1fr ;
+    grid-gap: 0rem;
+    justify-items: center;
+    justify-content: center;
+
+}
+
+.edit{
+    margin-left: 45vw;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .main{
+        width: 70%;
+        margin-top: 20%;
+        margin-left: 10%;
+        }
+      
+    .volunteer{
+        margin-top: 2%;
+        padding: 3%;
+        width: 60%;
+        height: 5%;
+        display: grid;
+        grid-template-Columns: 1fr ;
+        grid-gap: 0px;
+        justify-items: center;
+        justify-content: center;
+    
+    }
+    
+  }
+  
+@media (min-width: 768px) and (max-width: 1024px) {
+    
+    .main{
+        margin-top: 10%;
+        margin-left: 20%;
+        }
+
+    .volunteer{
+        margin-top: 1%;
+        width: 85%;
+        height: 7%;
+        display: grid;
+        grid-template-Columns: 1fr ;
+        grid-gap: 2px;
+        justify-items: center;
+        justify-content: center;
+    
+    }
+
+  }
+

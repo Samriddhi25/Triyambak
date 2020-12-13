@@ -1,0 +1,46 @@
+body {
+  width: 100%;
+}
+
+.main-title {
+  font-family: 'Montserrat';
+  color: black;
+}
+
+.title {
+  border-bottom: 1px solid gray;
+  margin-left: 7%;
+  font-weight: 600;
+  font-family: 'Montserrat';
+}
+
+.container {
+  display: block;
+  margin-left: 10%;
+  width: 90%;
+  height: 5%;
+  justify-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .container {
+    margin-top: 5%;
+    padding: 2%;
+    width: 90%;
+    height: 5%;
+    justify-items: center;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .container {
+    margin-top: 5%;
+    padding: 2%;
+    width: 90%;
+    height: 5%;
+    justify-items: center;
+    justify-content: center;
+  }
+}

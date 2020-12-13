@@ -1,0 +1,26 @@
+.side {
+  position: fixed;
+  border-left: 1px solid #D7D4C5;
+  background-color: rgb(36, 35, 35);
+  width: -moz-fit-content;
+  width: fit-content;
+  min-width: 10%;
+  height: 100%;
+  top: 65px;
+  left: -1px;
+}
+
+.testbar {
+  margin-top: 2%;
+  margin-bottom: 5%;
+  font: 400 15.3333px Arial;
+  color: #fff;
+}
+
+button:hover {
+  color: #FF7F00;
+}
+
+button:focus {
+  outline: none;
+}

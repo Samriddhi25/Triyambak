@@ -1,0 +1,128 @@
+body{
+    width: 100%;
+}
+.mypage{
+    margin-bottom: 5%;
+
+}
+.featur{
+    margin-left: 60%;
+}
+td:nth-child(1) {
+    width: 10%;
+  }
+
+  td:nth-child(2) {
+    width: 10%;
+  }
+.edit{
+    margin-left: 45vw;
+}
+.close {
+    width: fit-content;
+    border: none;
+    color: #fff;
+    text-align: center;
+    background-color: #ffd000;
+    cursor: default;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font: 13.3333px;
+  }
+
+  .clos {
+    width: fit-content;
+    margin-bottom:3%;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    background-color: #ffd000;
+    cursor: default;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font: 13.3333px;
+    padding: 1px 6px;
+  }
+.title{
+    margin-left: 5%;
+}
+.containe{
+    margin-left:5%;
+}
+.containerr{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.contain{
+    width: 80%;
+    margin-top: 2%;
+    margin-left: 10%;
+    height: 5%;
+    display: grid;
+    grid-template-Columns: 1fr ;
+    grid-gap: 0rem;
+    justify-items: center;
+    justify-content: center;
+
+}
+.contains .priority-7 {
+    display: none;
+  }
+.contains{
+    width: 80%;
+    margin-top: 2%;
+    margin-left: 10%;
+    height: 5%;
+    display: grid;
+    grid-template-Columns: 1fr ;
+    grid-gap: 0rem;
+    justify-items: center;
+    justify-content: center;
+
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .main{
+        width: 70%;
+        margin-top: 20%;
+        margin-left: 10%;
+        }
+      
+    .contain{
+        margin-top: 2%;
+        padding: 3%;
+        width: 60%;
+        height: 5%;
+        display: grid;
+        grid-template-Columns: 1fr ;
+        grid-gap: 0px;
+        justify-items: center;
+        justify-content: center;
+    
+    }
+    
+  }
+  
+@media (min-width: 768px) and (max-width: 1024px) {
+    
+    .main{
+        margin-top: 10%;
+        margin-left: 20%;
+        }
+
+    .contain{
+        margin-top: 1%;
+        width: 85%;
+        height: 7%;
+        display: grid;
+        grid-template-Columns: 1fr ;
+        grid-gap: 2px;
+        justify-items: center;
+        justify-content: center;
+    
+    }
+
+  }
+

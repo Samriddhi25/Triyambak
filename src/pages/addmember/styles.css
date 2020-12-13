@@ -1,0 +1,33 @@
+.login-form-wrapper{
+    margin-top: 18vh;
+    margin-left: 20vw;
+}
+
+.login-divider {
+    margin-top: 5%;
+    max-width: 70vw ;
+}
+
+.label {
+    font-size: large;
+    padding-right: 5vw;
+    padding-bottom: 5vh;
+}
+
+.input{
+    min-width: 30vw;
+    border: 1px solid ;
+    margin-bottom: 5vh;
+    min-height: 5vh;
+    background-color: rgba(240, 236, 234, 0.801);
+}
+
+.button {
+    margin-left: 20vw;
+    padding: 1vw;
+    border-radius: 2%;
+    width: 120px;
+    font-size: large;
+    color: rgb(0, 0, 0);
+    background-color: #28a745;
+}
